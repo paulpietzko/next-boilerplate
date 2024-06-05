@@ -1,5 +1,41 @@
 {
   "Index": {
     "title": "Hallo Welt!"
+  },
+  "Hero": {
+    "heroTitle": "Willkommen auf unserer Website",
+    "heroSubtitle": "Wir freuen uns, Sie hier zu sehen.",
+    "heroButton": "Mehr erfahren"
+  },
+  "Features": {
+    "featuresTitle": "Funktionen",
+    "featuresContent": "Entdecken Sie die erstaunlichen Funktionen unseres Produkts."
+  },
+  "Testimonials": {
+    "testimonialsTitle": "Testimonials",
+    "testimonialsContent": "Sehen Sie, was unsere Kunden sagen."
+  },
+  "Contact": {
+    "contactFormTitle": "Kontaktieren Sie uns",
+    "contactFormSubtitle": "Wir würden uns freuen, von Ihnen zu hören. Bitte füllen Sie das untenstehende Formular aus.",
+    "contactFormName": "Name",
+    "contactFormEmail": "E-Mail",
+    "contactFormMessage": "Nachricht",
+    "contactFormSubmit": "Absenden"
+  },
+  "Footer": {
+    "imprintTitle": "Impressum",
+    "footerText": "© 2024 Unsere Website. Alle Rechte vorbehalten."
+  },
+  "Imprint": {
+    "imprintTitle": "Impressum",
+    "companyDetailsTitle": "Unternehmensdetails",
+    "companyDetailsContent": "Unternehmensname: Beispiel GmbH\nAdresse: Beispielstraße 1, 12345 Beispielstadt, Land\nGeschäftsführer: Max Mustermann, Erika Mustermann\nTelefon: +49 123 456 789\nE-Mail: kontakt@beispiel.de",
+    "commercialRegisterTitle": "Handelsregister",
+    "commercialRegisterContent": "Registergericht: Amtsgericht Beispielstadt\nRegisternummer: HRB 123456",
+    "vatNumberTitle": "Umsatzsteuer-ID",
+    "vatNumberContent": "Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: DE 123456789",
+    "disputeResolutionTitle": "Streitbeilegung",
+    "disputeResolutionContent": "Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: [Link zur OS-Plattform](https://ec.europa.eu/consumers/odr). Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen."
   }
 }

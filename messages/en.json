@@ -1,5 +1,41 @@
 {
   "Index": {
     "title": "Hello world!"
+  },
+  "Hero": {
+    "heroTitle": "Welcome to Our Website",
+    "heroSubtitle": "We are glad to see you here.",
+    "heroButton": "Learn More"
+  },
+  "Features": {
+    "featuresTitle": "Features",
+    "featuresContent": "Discover the amazing features of our product."
+  },
+  "Testimonials": {
+    "testimonialsTitle": "Testimonials",
+    "testimonialsContent": "See what our customers are saying."
+  },
+  "Contact": {
+    "contactFormTitle": "Contact Us",
+    "contactFormSubtitle": "We'd love to hear from you. Please fill out the form below.",
+    "contactFormName": "Name",
+    "contactFormEmail": "Email",
+    "contactFormMessage": "Message",
+    "contactFormSubmit": "Submit"
+  },
+  "Footer": {
+    "imprintTitle": "Imprint",
+    "footerText": "© 2024 Our Website. All rights reserved."
+  },
+  "Imprint": {
+    "imprintTitle": "Imprint",
+    "companyDetailsTitle": "Company Details",
+    "companyDetailsContent": "Company Name: Example Ltd.\nAddress: Example Street 1, 12345 Example City, Country\nManaging Directors: John Doe, Jane Doe\nPhone: +1 234 567 890\nEmail: contact@example.com",
+    "commercialRegisterTitle": "Commercial Register",
+    "commercialRegisterContent": "Registration Court: Local Court of Example City\nRegistration Number: HRB 123456",
+    "vatNumberTitle": "VAT Number",
+    "vatNumberContent": "VAT Identification Number according to §27a of the Value Added Tax Act: DE 123456789",
+    "disputeResolutionTitle": "Dispute Resolution",
+    "disputeResolutionContent": "The European Commission provides a platform for online dispute resolution (ODR): [Link to ODR platform](https://ec.europa.eu/consumers/odr). We are not willing or obliged to participate in dispute resolution proceedings before a consumer arbitration board."
   }
 }

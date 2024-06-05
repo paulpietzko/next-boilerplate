@@ -1,9 +1,10 @@
-import LocaleSwitcher from '@/components/LocaleSwitcher';
 import Link from 'next/link';
+import LocaleSwitcher from '@/components/LocaleSwitcher';
+import ThemeSwitcher from '@/components/ThemeSwitcher';
 
 export default function Navbar() {
   return (
-    <div className="navbar bg-base-100">
+    <div className="navbar bg-base-200">
       <div className="flex-1">
         <Link href="/">Boilerplate</Link>
       </div>
@@ -11,6 +12,9 @@ export default function Navbar() {
         <ul className="menu menu-horizontal px-1">
           <li>
             <LocaleSwitcher />
+          </li>
+          <li>
+            <ThemeSwitcher />
           </li>
           <li>
             <a>Link</a>

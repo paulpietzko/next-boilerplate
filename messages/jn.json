@@ -1,5 +1,41 @@
 {
   "Index": {
     "title": "ハローワールド"
+  },
+  "Hero": {
+    "heroTitle": "私たちのウェブサイトへようこそ",
+    "heroSubtitle": "お会いできて嬉しいです。",
+    "heroButton": "もっと知る"
+  },
+  "Features": {
+    "featuresTitle": "特徴",
+    "featuresContent": "私たちの製品の驚くべき特徴を発見してください。"
+  },
+  "Testimonials": {
+    "testimonialsTitle": "お客様の声",
+    "testimonialsContent": "お客様の声をご覧ください。"
+  },
+  "Contact": {
+    "contactFormTitle": "お問い合わせ",
+    "contactFormSubtitle": "ご意見をお聞かせください。以下のフォームにご記入ください。",
+    "contactFormName": "名前",
+    "contactFormEmail": "メール",
+    "contactFormMessage": "メッセージ",
+    "contactFormSubmit": "送信"
+  },
+  "Footer": {
+    "footerText": "© 2024 私たちのウェブサイト。全著作権所有。",
+    "imprintTitle": "インプリント"
+  },
+  "Imprint": {
+    "imprintTitle": "インプリント",
+    "companyDetailsTitle": "会社の詳細",
+    "companyDetailsContent": "会社名: 例株式会社\n住所: 例通り1番地, 12345 例市, 国\n代表取締役: 山田太郎, 鈴木花子\n電話: +81 123 456 789\nメール: contact@例.com",
+    "commercialRegisterTitle": "商業登記",
+    "commercialRegisterContent": "登記裁判所: 例市地方裁判所\n登記番号: HRB 123456",
+    "vatNumberTitle": "VAT番号",
+    "vatNumberContent": "VAT識別番号(付加価値税法第27a条に基づく): DE 123456789",
+    "disputeResolutionTitle": "紛争解決",
+    "disputeResolutionContent": "欧州委員会はオンライン紛争解決(ODR)のためのプラットフォームを提供しています: [ODRプラットフォームへのリンク](https://ec.europa.eu/consumers/odr). 当社は、消費者仲裁機関での紛争解決手続きに参加する義務も意志もありません。"
   }
 }
